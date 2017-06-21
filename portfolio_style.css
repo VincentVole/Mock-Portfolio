@@ -1,0 +1,140 @@
+#wrapper{
+	width: 980px;
+	background-color: #6f5964;
+	margin: 0 auto;
+}
+#wrapper * {
+	display: inline-block;
+}
+p{
+	margin: 0px 10px;
+	margin-bottom: 5px;
+}
+#about{
+	width: 457px;
+	margin-top: 10px;
+	margin-left: 15px;
+	vertical-align: top;
+}
+#about .pGradient{
+	height: 250px;
+}
+#about .tGradient{
+	width: 435px;
+}
+#col1, #col2, #col3{
+	height: 360px;
+	width: 285px;
+}
+#contact{
+	margin: 5px 37%;
+}
+#contactLine{
+	width: 980px;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+#continue{
+	margin-left: 10px;
+}
+#titleBar{
+	background-color: #f6f6f6;
+	width: 940px;
+	height: 80px;
+	padding: 10px 20px;
+}
+#mainContent{
+	padding: 10px;
+
+	background: #6f5964; /* For browsers that do not support gradients */
+    background: -webkit-radial-gradient(transparent, #1d0d11); /* Safari 5.1-6.0 */
+    background: -o-radial-gradient(transparent, #1d0d11); /* For Opera 11.6-12.0 */
+    background: -moz-radial-gradient(transparent, #1d0d11); /* For Firefox 3.6-15 */
+    background: radial-gradient(transparent, #1d0d11); /* Standard syntax */
+}
+#name{
+	font-family: "Comic Sans MS", sans-serif;
+	margin-right: 400px;
+}
+#footer{
+	background-color: #f7f7f7;
+	width: 980px;
+}
+#face{
+	width: 45%;
+	height: 45%;
+	margin-left: 15px;
+	margin-right: 5px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	border: 5px solid #c0c1c0;
+}
+#socialMedia{
+	width: 980px;
+	margin: 5px 30%;
+}
+.button{
+	font-family: Arial, sans-serif;
+	color: white;
+	background-color: #407d61;
+	padding: 3px;
+	border: 1px solid black;
+	border-radius: 7px;
+	box-shadow: 5px 5px 5px grey;
+	margin-bottom: 20px;
+	margin-left: 27%;
+	margin-right: 27%;
+
+}
+.col{
+	width: 285px;
+	height: 630px;
+	vertical-align: top;
+	margin: 0px 15px;
+}
+.col .tGradient{
+	width: 265px;
+}
+.contact{
+
+}
+.icon{
+	width: 17%;
+	height: 17%;
+	margin: 2px;
+}
+.pGradient{
+	background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #fefefe, #dbccda); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #fefefe, #dbccda); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #fefefe, #dbccda); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #fefefe, #dbccda); /* Standard syntax */
+
+    padding-top: 0px;
+}
+.pGradient p{
+	margin-top: 7px;
+}
+.projPic{
+	width: 265px;
+	margin: 0px;
+}
+.smallIcon{
+	width: 2.5%;
+	height: 2.5%;
+}
+.tGradient{
+	vertical-align: bottom;
+
+	background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#b2b2b5, #8a8895, #b2b2b5); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#b2b2b5, #8a8895, #b2b2b5); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#b2b2b5, #8a8895, #b2b2b5); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#b2b2b5, #8a8895, #b2b2b5); /* Standard syntax */
+
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    font-size: 130%;
+    padding: 10px;
+}
